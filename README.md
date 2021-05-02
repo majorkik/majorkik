@@ -1,8 +1,4 @@
-<p align="center">
-  
-## Hi 👋, I'm Rodion Belovitsky
-
-</p>
+<h1 align="center">Hi 👋, I'm Rodion Belovitsky</h1>
 
 ❤️ Programming | 💛 Kotlin | 🖤 Digital Art | 💙 TV series, films and anime 
 
