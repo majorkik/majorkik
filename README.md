@@ -1,4 +1,8 @@
+<!---
 <h1 align="center">Hi 👋, I'm Rodion Belovitsky</h1>
+-->
+
+<img src="src/Title.jpg" width="100%"/>
 
 ❤️ Programming | 💛 Kotlin | 🖤 Digital Art | 💙 TV series, films and anime 
 
