@@ -21,12 +21,9 @@
 
 As well as many other languages and tools that I had experience with during my studies or in my free time
 
-<!---
 ### Github stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=majorkik&show_icons=true&theme=vue&include_all_commits=true&count_private=true)
-
--->
 
 ### My latest projects
 
