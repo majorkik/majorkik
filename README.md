@@ -6,8 +6,6 @@
 
 ❤️ Programming | 💛 Kotlin | 🖤 Digital Art | 💙 TV series, films and anime 
 
-
-- 🌱 I’m currently learning Data Science | Full Stack Web development | App Development | NLP | Cyber Security
 - 💬 Ask me about anything. I will try to help you as much as I can.
 - ⚡ Quote: `It's never too late to learn. In our time, you can learn everything.`
 - 📫 How to reach me:
