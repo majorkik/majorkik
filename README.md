@@ -25,10 +25,10 @@ As well as many other languages and tools that I had experience with during my s
 
 ### My latest projects
 
-<a href="https://github.com/WEGFan/codestats-profile-readme">
+<a href="https://github.com/majorkik/MovieBox-Compose">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=majorkik&repo=MovieBox-Compose" alt="codestats-profile-readme" />
 </a>
-<a href="https://github.com/WEGFan/Geometry-Dash-Menu-Music-Randomizer">
+<a href="https://github.com/majorkik/moviebox-backend">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=majorkik&repo=MovieBox-Backend" alt="Geometry-Dash-Menu-Music-Randomizer" />
 </a>
 
