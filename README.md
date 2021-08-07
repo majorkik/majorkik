@@ -4,7 +4,7 @@
 
 <img src="src/Title.jpg" width="100%"/>
 
-❤️ Programming | 💛 Kotlin | 🖤 Digital Art | 💙 TV series, films and anime 
+❤️ Programming | 💛 Kotlin | :zap: Blockchain | :zap: Rust | 🖤 CG & Digital art
 
 - 💬 Ask me about anything. I will try to help you as much as I can.
 - ⚡ Quote: `It's never too late to learn. In our time, you can learn everything.`
