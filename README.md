@@ -17,13 +17,29 @@
 
 ### Languages and technologies 
 
-<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /><img alt="Android" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" /><img alt="Android" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+![Kotlin](https://img.shields.io/static/v1?label=%20&message=Kotlin&color=%237F52FF&logo=kotlin&logoColor=white&style=for-the-badge) 
+![Rust](https://img.shields.io/static/v1?label=%20&message=Rust&color=%23000000&logo=rust&logoColor=white&style=for-the-badge)
+![Go](https://img.shields.io/static/v1?label=%20&message=Go&color=%2300ADD8&logo=go&logoColor=white&style=for-the-badge)
+![Swift](https://img.shields.io/static/v1?label=%20&message=Swift&color=%23F05138&logo=swift&logoColor=white&style=for-the-badge)
+![Haskell](https://img.shields.io/static/v1?label=%20&message=Haskell&color=%235F5286&logo=haskell&logoColor=white&style=for-the-badge)
+![С/C++](https://img.shields.io/static/v1?label=%20&message=C%2FC%2B%2B&color=%2300599C&logo=C%2B%2B&style=for-the-badge)
+![Java](https://img.shields.io/static/v1?label=%20&message=Java&color=%23E76F00&logo=java&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/static/v1?label=%20&message=PostgreSQL&color=%230064a5&logo=postgresql&logoColor=white&style=for-the-badge)
+![Bazel](https://img.shields.io/badge/Bazel-161616.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABHNCSVQICAgIfAhkiAAAAW9JREFUKFN1kU1LAmEQx2eyWq2rFojooSyQ3ujirQ0D/RZB9yhBOqcfQKhP0Msn6NDJgyR0aK9aHrKgzU0CO4iRuej2tPPUyGbuXp5n5j+/+c/sg/D7ZaqZiKeP59a42M7H8jrn6RylIQtjPSwhYkQIoX9NCJVhgkZp6BTYhWGKGRrWcFfbu5nyKXHnaHTvfJoanW4aJs5S9aXYAngVb4jhrtk1bqv3MnTTcOs0JQSCwQUMoQDZyE2TIBdE5yPN2oMeYGiwl914WMPESTJr/81DKqo1XgpBvz82PakMxqb8x3vHaNTq1ej6YlKaCJGTz8Fw+UkvvbXac3F7Z4YJ0i6uwR+eeVxR11SCijuFrAQZrujPm81WW7WTBsFgWkCQABEKhGdLyxurVwRR/QCkQDkIH5m9/j7dPYga3L2CZVnyqRSfcmxemmk2+gPKZDpIHeXOUGn81AnIQRGkkzvohAkcAf0b1dlROpdtcMiJa74BmPnVW/Dy3dUAAAAASUVORK5CYII=&logoColor=white)
 
-<img alt="Android" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" /><img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /><img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" /><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /><img alt="Android" src="https://img.shields.io/badge/C%2FC++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /><img alt="Apache Cassandra & Scylla" src="https://img.shields.io/badge/Cassandra%20%7C%20Scylla-59D1E5.svg?&style=for-the-badge&logo=apachecassandra&logoColor=white" />
+#### Platforms
 
-<img alt="Adobe XD" src="https://img.shields.io/badge/adobexd-%23FF26BE.svg?&style=for-the-badge&logo=adobexd&logoColor=white"/> <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=white"/> <img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?&style=for-the-badge&logo=adobeillustrator&logoColor=white"/> <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/> <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red" />  
+![Android](https://img.shields.io/static/v1?label=%20&message=Android&color=%233DDC84&logo=android&logoColor=white&style=for-the-badge)
+![iOS](https://img.shields.io/static/v1?label=%20&message=iOS&color=%23000000&logo=ios&logoColor=white&style=for-the-badge)
 
-As well as many other languages and tools that I had experience with during my studies or in my free time
+:watch: There would be more time and I would like to work with:
+
+- KMM (Kotlin Mobile Multiplatform)
+- Blockchain / Highly loaded, distributed systems (for example with Сassandra/Scylla)
+- Elixir
+- Game engine development / Game development
+- Improve my digital drawing skills
+- AR and optimization using the Rust language
 
 ### Github stats
 
