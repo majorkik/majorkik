@@ -32,7 +32,7 @@
 ![Android](https://img.shields.io/static/v1?label=%20&message=Android&color=%233DDC84&logo=android&logoColor=white&style=for-the-badge)
 ![iOS](https://img.shields.io/static/v1?label=%20&message=iOS&color=%23000000&logo=ios&logoColor=white&style=for-the-badge)
 
-:watch: There would be more time and I would like to work with:
+:watch: In my spare time, I want work with:
 
 - KMM (Kotlin Mobile Multiplatform)
 - Blockchain / Highly loaded, distributed systems (for example with Сassandra/Scylla)
