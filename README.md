@@ -9,8 +9,8 @@
 
 ### About Me
 
-- 🔭 I am currently working on building an app using **Jetpack Compose**, awesome designs, best practices and scalable architecture
-- 🌱I am currently researching the topic of developing **KMM** applications
+- 🔭 I am currently working with **Rust** and exploring **Haskell** for a full immersion in **FP**.
+- 🌱 I'm currently researching **KMM** app development and **Jetpack Compose**, which is like a breath of fresh air for me.
 - 💬 Ask me about anything. I will try to help you as much as I can.
 - ⚡ Quote: `It's never too late to learn. In our time, you can learn everything.`
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-rodion_belovickiy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodion-belovickiy-722755196/)](https://www.linkedin.com/in/rodion-belovickiy-722755196/) [![Gmail Badge](https://img.shields.io/badge/-belovickiy.rodion@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:belovickiy.rodion@gmail.com)](mailto:belovickiy.rodion@gmail.com)
