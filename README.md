@@ -35,7 +35,7 @@
 :watch: In my spare time, I want work with:
 
 - KMM (Kotlin Mobile Multiplatform)
-- Blockchain (Solana/Polkadot/Solidity) / Highly loaded, distributed systems (for example with Сassandra/Scylla)
+- Blockchain (Solana/Polkadot/Solidity) / Highly loaded, distributed systems (for example with Сassandra/Scylla), ML/DL
 - Elixir
 - Game engine development / Game development
 - Improve my digital drawing skills
